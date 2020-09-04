@@ -5,28 +5,20 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel index.html --open",
-    "build": "parcel build index.html",
-    "lint": "eslint ./js",
-    "lint:fix": "eslint ./js --fix"
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShelestCool/Dz-14.git"
+    "url": "git+https://github.com/ShelestCool/Dz-13.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ShelestCool/Dz-14/issues"
+    "url": "https://github.com/ShelestCool/Dz-13/issues"
   },
-  "homepage": "https://github.com/ShelestCool/Dz-14#readme",
+  "homepage": "https://github.com/ShelestCool/Dz-13#readme",
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
-    "eslint": "^7.1.0",
-    "eslint-config-airbnb": "^18.1.0",
-    "eslint-config-babel": "^9.0.0",
-    "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-import": "^2.20.2",
     "parcel-bundler": "^1.12.4"
   }
 }
